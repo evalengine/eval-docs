@@ -2,6 +2,8 @@
 
 * [Eval Engine](README.md)
 * [What is Evaluation?](what-is-evaluation.md)
-* [Virtuals G.A.M.E Framework](virtuals-g.a.m.e-framework.md)
-* [Javascript SDK](javascript-sdk.md)
-* [Python SDK](python-sdk.md)
+* [Setup Chromia Account](setup-chromia-account.md)
+* [Integration](integration/README.md)
+  * [Virtuals G.A.M.E Framework](integration/virtuals-g.a.m.e-framework.md)
+  * [Javascript SDK](integration/javascript-sdk.md)
+  * [Python SDK](integration/python-sdk.md)
