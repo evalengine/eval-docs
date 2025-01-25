@@ -2,11 +2,11 @@
 
 ### Overview
 
-Eval Engine is a system that provides transparent evaluation services using Chromia blockchain as its database layer. It operates with three main parties:
+Eval Engine provides transparent evaluation services powered by Chromia blockchain - a gas-free blockchain that enables seamless user experience without transaction fees. The system consists of three key components:
 
-1. Chromia Blockchain: The underlying transparent database
-2. Engine: The evaluation service
-3. Client: The end user requesting evaluations
+1. **Chromia Blockchain**: Acts as a transparent, immutable, gas-free database
+2. **Engine**: The evaluation service
+3. **Client**: The end user requesting evaluations
 
 ### Think of it as a Michelin Food Critic
 
@@ -23,7 +23,7 @@ The evaluation process follows these steps:
 5. Engine stores results on the blockchain
 6. Client receives the evaluation results
 
-All transactions and results are permanently stored on Chromia blockchain, ensuring transparency and auditability. Clients interact with the system through a simple API/SDK interface, while the Engine handles all blockchain operations.
+> All transactions and results are permanently stored on Chromia blockchain, ensuring transparency and auditability. Clients interact with the system through a simple SDK/API interface, while the Engine handles all blockchain operations.
 
 ```mermaid
 sequenceDiagram
