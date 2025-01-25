@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Eval Engine](README.md)
+* [How Eval Engine works?](how-eval-engine-works.md)
 * [What is Evaluation?](what-is-evaluation.md)
 * [Setup Chromia Account](setup-chromia-account.md)
 * [Integration](integration/README.md)
