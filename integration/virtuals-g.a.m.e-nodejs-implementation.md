@@ -8,6 +8,12 @@ The Eval Engine Plugin is a TypeScript/JavaScript SDK for integrating Twitter fu
 
 
 
+### Changelog
+
+0.1.0 [https://github.com/game-by-virtuals/game-node/pull/19](https://github.com/game-by-virtuals/game-node/pull/19)&#x20;
+
+
+
 Features
 
 * All evaluation results of reply tweets are logged in EvalEngine
