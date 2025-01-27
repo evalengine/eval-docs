@@ -23,13 +23,23 @@ Features
 
 
 
-
-
 ### Installation
 
+Setup Chromia Private Key: [Guide](../setup-chromia-account.md)
+
+To install the plugin, use npm or yarn:
+
 ```bash
-npm install @virtuals-protocol/game-evalengine-twitter-plugin
+npm install @virtuals-protocol/game-eval-engine-plugin
 ```
+
+or
+
+```bash
+yarn add @virtuals-protocol/game-eval-engine-plugin
+```
+
+
 
 ### Key Components
 
@@ -66,7 +76,7 @@ for evaluating tweet content
 ### Usage Example
 
 ```typescript
-import TwitterPlugin from "@virtuals-protocol/game-evalengine-twitter-plugin";
+import TwitterPlugin from "@virtuals-protocol/game-eval-engine-plugin";
 import { initEvalClient } from "./evalEngine";
 
 // Initialize the eval client
