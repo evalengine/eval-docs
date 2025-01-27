@@ -16,7 +16,9 @@ Total Supply: 1,000,000,000 (1 billion) tokens
 
 ## Token Contract
 
-WIP
+$EVAL
+
+Base: [0xdd78523217390bb0d49C7601e7e54C36d71622F0](https://basescan.org/address/0xdd78523217390bb0d49c7601e7e54c36d71622f0)
 
 
 
