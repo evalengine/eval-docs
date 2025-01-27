@@ -30,7 +30,7 @@ Base: [0xdd78523217390bb0d49C7601e7e54C36d71622F0](https://basescan.org/address/
 
 12%: Ecosystem Treasury & Partnerships&#x20;
 
-13%: Pre sale allocation to Vader & Sekoia&#x20;
+13%: Vader & Sekoia Partnerships
 
 9.4%: Airdrop to selected Virtual & native $CHR stakers (Phase 1)&#x20;
 
