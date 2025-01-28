@@ -24,17 +24,17 @@ Base: [0xdd78523217390bb0d49C7601e7e54C36d71622F0](https://basescan.org/address/
 
 ## Tokenomics:
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 25%: Liquidity Pool & Strategic Reserves&#x20;
 
-12%: Ecosystem Treasury & Partnerships&#x20;
+15%: Ecosystem Treasury & Partnerships&#x20;
 
-13%: Vader & Sekoia Partnerships
+5%: Vader Partnerships
 
 9.4%: Airdrop to selected Virtual & native $CHR stakers (Phase 1)&#x20;
 
-10.6%: Future Airdrops & Community&#x20;
+15.6%: Future Airdrops & Community&#x20;
 
 20%: Contributors&#x20;
 

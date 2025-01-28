@@ -16,7 +16,7 @@ The system consists of three key components:
 
 ### Think of it as a Distinguished Food Critic
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Eval Engine is like a Distinguished Food Critic</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Eval Engine is like a Distinguished Food Critic</p></figcaption></figure>
 
 Eval Engine is like a World-Renowned Food Critic. While their evaluation criteria remain private, their final ratings and reviews are public and immutable. Eval Engine works similarly - it processes evaluations through multiple specialized models but records all results transparently on Chromia blockchain. Like a prestigious restaurant rating that can't be bought or manipulated, Eval Engine ensures evaluation integrity through blockchain technology.
 
