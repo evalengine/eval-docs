@@ -24,7 +24,7 @@ Base: [0xdd78523217390bb0d49C7601e7e54C36d71622F0](https://basescan.org/address/
 
 ## Tokenomics:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 25%: Liquidity Pool & Strategic Reserves&#x20;
 
@@ -36,7 +36,9 @@ Base: [0xdd78523217390bb0d49C7601e7e54C36d71622F0](https://basescan.org/address/
 
 15.6%: Future Airdrops & Community&#x20;
 
-20%: Contributors&#x20;
+18.5%: Contributors&#x20;
+
+1.5%: Advisors
 
 10%: Chromia Foundation
 
